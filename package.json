@@ -1,0 +1,26 @@
+{
+  "name": "chap02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-helloworld",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taduylinh0396077238/NodeJs-express.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "dl",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "duylinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taduylinh0396077238/NodeJs-express/issues"
+  },
+  "homepage": "https://github.com/taduylinh0396077238/NodeJs-express#readme"
+}
