@@ -2,7 +2,7 @@ const path = require('path');
 const express = require('express');
 
 const app = express();
-const port = 3000; 
+
 
 
 app.get('/headers', (req, res) => {
@@ -12,3 +12,7 @@ app.get('/headers', (req, res) => {
         res.send(headers.join('\n'))
 })
 
+
+app.listen(3000, () => {
+    console.log('listening on port 3000');
+})
